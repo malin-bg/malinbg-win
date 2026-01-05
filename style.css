@@ -14,7 +14,7 @@ body {
   display: grid;
   place-items: center;
   padding: 24px;
-  background-image: url("prohodna-2560.jpg"); /* ако е в img/, смени на url("img/prohodna-2560.jpg") */
+  background-image: url("img/prohodna-2560.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
